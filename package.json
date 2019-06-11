@@ -1,20 +1,20 @@
 {
-  "name": "dominiklindemann",
+  "name": "munichconsultants",
   "version": "1.0.0",
-  "description": "Dominik Lindemann personal card (@dominiklindemann)",
+  "description": "munichConsultants company card",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DominikLindemann/dominiklindemann.git"
+    "url": "https://github.com/munichconsultants/munichconsultants.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Dominik Lindemann <dominik@d-lindemann.de> (http://d-lindemann.de)",
+  "author": "Dominik Lindemann <dominik@munichConsultants.tech> & Alex Frankenberger <alex@munichConsultants.tech> (http://munichConsultants.tech)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",

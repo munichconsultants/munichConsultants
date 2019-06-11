@@ -1,9 +1,9 @@
-This is Dominik!
+This is MunichConsultants!
 
 # Usage
 Via npx:
 ```
-npx dominiklindemnn
+npx munichconsultants
 ```
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
